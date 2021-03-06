@@ -16,6 +16,7 @@ p {
 }
 
 div#resultBox {
+	margin: 30px 10px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
