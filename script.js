@@ -31,6 +31,4 @@ const submitHandler = function(event) {
 
 };
 
-
-
 smbtn.onclick = submitHandler;
